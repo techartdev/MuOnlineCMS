@@ -22,5 +22,11 @@ namespace MuOnlineCMS.Web.Controllers
 
             return View();
         }
+
+        public ActionResult Downloads()
+        {
+
+            return View();
+        }
     }
 }

@@ -1,0 +1,30 @@
+﻿html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0;
+    padding-bottom: 180px;
+}
+
+.wrapper {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+footer {
+    height: 180px;
+    background-color: #eee;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 50px;
+}

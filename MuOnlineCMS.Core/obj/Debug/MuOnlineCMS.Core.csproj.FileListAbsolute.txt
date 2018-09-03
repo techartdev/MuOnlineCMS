@@ -1,0 +1,9 @@
+D:\GitHub\MuOnlineCMS\MuOnlineCMS.Core\obj\Debug\MuOnlineCMS.Core.csprojAssemblyReference.cache
+D:\GitHub\MuOnlineCMS\MuOnlineCMS.Core\obj\Debug\MuOnlineCMS.Core.csproj.CoreCompileInputs.cache
+D:\GitHub\MuOnlineCMS\MuOnlineCMS.Core\bin\Debug\MuOnlineCMS.Core.dll
+D:\GitHub\MuOnlineCMS\MuOnlineCMS.Core\bin\Debug\MuOnlineCMS.Core.pdb
+D:\GitHub\MuOnlineCMS\MuOnlineCMS.Core\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\MuOnlineCMS\MuOnlineCMS.Core\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\MuOnlineCMS\MuOnlineCMS.Core\obj\Debug\MuOnlineCMS.Core.csproj.CopyComplete
+D:\GitHub\MuOnlineCMS\MuOnlineCMS.Core\obj\Debug\MuOnlineCMS.Core.dll
+D:\GitHub\MuOnlineCMS\MuOnlineCMS.Core\obj\Debug\MuOnlineCMS.Core.pdb
